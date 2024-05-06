@@ -48,6 +48,10 @@ Access to the Team Leader teamLeader@td.com pass: 123456
 Access to the Media Buyer  mediabuyer@td.com pass: 123456
 ```
 
+```
+Link to project http://erm.localhost/
+```
+
 
 
 
